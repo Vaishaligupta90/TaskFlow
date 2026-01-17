@@ -60,7 +60,7 @@
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/DarshanKumarBhandari11/TaskFlow.git
+    git clone https://github.com/Vaishaligupta90/TaskFlow.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -105,4 +105,4 @@
 
 
 ## Contact 📞
-For questions or feedback, feel free to reach out to me at darshankumarbhandari11@gmail.com .
+For questions or feedback, feel free to reach out to me at vaishaliagrahari137@gmail.com .
